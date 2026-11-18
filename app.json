@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Gemini Clone",
+    "slug": "gemini-clone",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "platforms": ["ios", "android"],
+    "splash": {
+      "backgroundColor": "#101218"
+    },
+    "android": {
+      "backgroundColor": "#101218"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "backgroundColor": "#101218"
+    }
+  }
+}
